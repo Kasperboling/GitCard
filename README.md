@@ -6,7 +6,6 @@ The project is a widget generator that fetches a user's GitHub profile informati
 
 - [Features](#features)
 - [Usage](#usage)
-- [Installation](#Installation)
 
 ## Features
 
@@ -19,6 +18,4 @@ The project is a widget generator that fetches a user's GitHub profile informati
 
 Users can embed the GitCard widget on their websites by including a simple code snippet. The widget dynamically fetches and displays the GitHub user's information, offering a seamless way to showcase GitHub profiles within web pages.
 
-## Installation
-
-Go to website
+Go to website https://gitcard.kasperboling.tech/
